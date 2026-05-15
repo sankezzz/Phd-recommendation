@@ -1,0 +1,44 @@
+============================================================
+CV 1 — Arjun Mehta (NLP / LLM)
+============================================================
+
+I want to work on making large language models more reliable and
+grounded — specifically reducing hallucination in long-form generation
+and improving factual consistency in retrieval-augmented systems. I am
+particularly interested in low-resource and multilingual settings, where
+most current LLM work does not generalise well. My background in
+code-switched speech and cross-lingual transfer gives me a different
+angle on generalisation that I think applies directly to multilingual LLM
+alignment. I want to work with a lab that is pushing the boundaries of
+how we evaluate and control what LLMs actually know versus what they
+confabulate.
+
+
+============================================================
+CV 2 — Priya Nair (Computational Biology / Genomics)
+============================================================
+
+I want to apply deep learning to understand gene regulation — specifically
+how DNA sequence encodes cell-type-specific chromatin accessibility and
+transcription factor binding. My thesis work on predicting ATAC-seq peaks
+from sequence showed me how much signal is still left unexploited in the
+raw genome. I am interested in scaling these models to whole-genome
+resolution and applying them to rare disease variant interpretation. I want
+to join a lab that works at the intersection of machine learning and
+functional genomics, ideally with access to large patient cohorts or
+biobank data.
+
+
+============================================================
+CV 3 — Lucas Ferreira (Computer Vision / Robotics)
+============================================================
+
+I want to work on 3D scene understanding for autonomous systems — 
+specifically how robots can build persistent, semantically rich maps of
+environments from partial and noisy sensor data. My experience with LiDAR
+point cloud processing and monocular depth estimation gives me a strong
+foundation in both sensor modalities. I am particularly interested in
+combining neural radiance fields or Gaussian splatting with SLAM for
+real-time dense mapping on resource-constrained platforms. I want to work
+with a lab that deploys research on real robotic hardware, not just
+simulation benchmarks.

@@ -1,0 +1,36 @@
+LUCAS FERREIRA
+lucas.ferreira@usp.br | github.com/lucasferreira-cv
+
+EDUCATION
+B.Sc Computer Engineering — University of Sao Paulo (2019–2024)
+GPA: 8.8 / 10
+Thesis: Real-time 3D object detection for autonomous robots using sparse LiDAR
+
+RESEARCH EXPERIENCE
+Undergraduate Researcher — Robotics and Computer Vision Lab, USP (Mar 2022 – Dec 2023)
+Advisor: Prof. Denis Wolf
+- Implemented PointPillars architecture for real-time 3D object detection on LiDAR point clouds
+- Achieved 47ms inference on NVIDIA Jetson for deployment on mobile robot platform
+- Integrated with ROS2 navigation stack for autonomous obstacle avoidance
+
+Research Intern — Bosch Center for AI, Germany (Jun 2023 – Sep 2023)
+- Worked on monocular depth estimation for ADAS applications
+- Implemented self-supervised depth estimation using photometric consistency loss
+- Benchmarked on KITTI dataset — 8% improvement over baseline on AbsRel metric
+
+SKILLS
+Languages: Python, C++, CUDA
+Frameworks: PyTorch, TensorFlow, OpenCV, Open3D
+Robotics: ROS2, Gazebo, MoveIt
+Hardware: NVIDIA Jetson, Intel RealSense, Velodyne LiDAR
+Methods: 3D object detection, depth estimation, SLAM, point cloud processing,
+         neural architecture search, model quantization
+
+PROJECTS
+- Implemented NeRF from scratch for novel view synthesis of indoor scenes
+- Built a multi-agent path planning system using reinforcement learning (PPO)
+- Real-time hand gesture recognition on edge device using MobileNetV3
+
+AWARDS
+- CNPq Undergraduate Research Fellowship 2022-2023
+- Best Paper — Brazilian Robotics Symposium 2023

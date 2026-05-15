@@ -1,0 +1,36 @@
+ARJUN MEHTA
+arjun.mehta@gmail.com | github.com/arjunmehta | linkedin.com/in/arjunmehta
+
+EDUCATION
+B.Tech in Computer Science — Indian Institute of Technology Bombay (2020–2024)
+CGPA: 9.1 / 10
+
+RESEARCH EXPERIENCE
+Undergraduate Researcher — IIT Bombay NLP Lab (Jan 2023 – May 2024)
+Advisor: Prof. Preethi Jyothi
+- Developed a low-resource speech recognition model for Hindi-English code-switched speech
+- Achieved 18% WER reduction over baseline using cross-lingual transfer from multilingual BERT
+- Submitted paper to Interspeech 2024
+
+Research Intern — Microsoft Research India (May 2023 – July 2023)
+- Built a retrieval-augmented generation pipeline for enterprise document QA
+- Evaluated hallucination rates across GPT-4, Claude, and Mistral on domain-specific corpora
+- Worked on structured output generation with constrained decoding
+
+PUBLICATIONS
+Mehta A., Jyothi P. (2024). Cross-lingual Transfer for Low-Resource Code-Switched ASR.
+Submitted to Interspeech 2024.
+
+SKILLS
+Languages: Python, C++, Java
+ML Frameworks: PyTorch, HuggingFace Transformers, LangChain, JAX
+Tools: FAISS, Weights & Biases, Docker, Git
+Methods: Fine-tuning LLMs, RAG, Constrained Decoding, Causal Language Modeling
+
+COURSEWORK
+Natural Language Processing, Deep Learning, Probabilistic Graphical Models,
+Information Retrieval, Statistical Machine Translation
+
+AWARDS
+- Best Undergraduate Thesis Award — CSE Department IIT Bombay 2024
+- Google India Scholarship 2022

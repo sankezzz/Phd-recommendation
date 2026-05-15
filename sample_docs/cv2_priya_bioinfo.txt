@@ -1,0 +1,37 @@
+PRIYA NAIR
+priya.nair@outlook.com | github.com/priyanair-bio
+
+EDUCATION
+M.Sc Bioinformatics — University of Edinburgh (2022–2024)
+Thesis: Predicting chromatin accessibility from DNA sequence using convolutional neural networks
+GPA: 3.9 / 4.0
+
+B.Sc Biotechnology — Christ University Bangalore (2019–2022)
+GPA: 3.7 / 4.0
+
+RESEARCH EXPERIENCE
+Master's Thesis — Genome Informatics Lab, University of Edinburgh (Sep 2023 – Aug 2024)
+Advisor: Dr. Stuart Aitken
+- Built a CNN model to predict ATAC-seq peaks from raw DNA sequence
+- Trained on 15 cell types across ENCODE dataset
+- Applied model to identify regulatory elements in rare disease cohorts
+
+Research Assistant — Institute of Genomics and Integrative Biology, Delhi (Jun 2021 – Aug 2021)
+- Processed whole exome sequencing data for 200 patient samples
+- Performed variant calling pipeline using GATK and annotated with ANNOVAR
+- Identified candidate variants in familial hypercholesterolemia cohort
+
+SKILLS
+Languages: Python, R, Bash
+Bioinformatics Tools: GATK, STAR, DESeq2, Bowtie2, ANNOVAR, Samtools
+ML: PyTorch, scikit-learn, Keras
+Data: ENCODE, GEO, UK Biobank pipeline familiarity
+Methods: RNA-seq analysis, ChIP-seq, ATAC-seq, Variant calling, GWAS
+
+PUBLICATIONS
+Nair P., Aitken S. (2024). Sequence-based prediction of chromatin accessibility
+across cell types. In preparation.
+
+COURSEWORK
+Statistical Genomics, Machine Learning for Biology, Structural Bioinformatics,
+Epigenomics, Population Genetics

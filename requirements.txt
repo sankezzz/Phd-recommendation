@@ -1,0 +1,25 @@
+# Core
+streamlit==1.42.0
+python-dotenv==1.0.1
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# LangChain
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-groq==0.2.3
+langchain-community==0.3.14
+langchain-text-splitters==0.3.5
+
+# LLM
+groq==0.13.1
+
+# Embeddings
+huggingface-hub==0.27.1
+
+# PDF + text parsing
+pdfminer.six==20231228
+pymupdf==1.24.11
+
+# Vector DB
+chromadb==0.6.3
