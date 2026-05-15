@@ -1,0 +1,76 @@
+[
+  {
+    "openalex_id":     "https://openalex.org/A5023888391",
+    "s2_author_id":    "1741101",
+
+    "name":            "Regina Barzilay",
+    "institution":     "MIT",
+    "institution_id":  "I63966007",
+
+    "openalex_topics": [
+      "Natural Language Processing",
+      "Drug Discovery",
+      "Clinical NLP",
+      "Machine Learning",
+      "Oncology Informatics"
+    ],
+    "works_count":    187,
+    "cited_by_count": 28400,
+
+    "oa_papers": [
+      {
+        "openalex_id": "https://openalex.org/W4390123456",
+        "title":       "CAMP: Towards Certified Robustness for Language Models via Randomized Smoothing",
+        "year":        2024,
+        "abstract":    "Large language models are increasingly deployed in safety-critical applications. We propose CAMP, a framework for certifying the robustness of text classifiers under word substitution attacks using randomized smoothing...",
+        "venue_name":  "NeurIPS",
+        "venue_type":  "conference",
+        "topics":      ["NLP Robustness", "Certified Defense", "Language Models"]
+      },
+      {
+        "openalex_id": "https://openalex.org/W4381234567",
+        "title":       "Empowering Molecule Discovery for Antibiotic Development with a Few-Shot Learning Based Approach",
+        "year":        2023,
+        "abstract":    "Antibiotic resistance is one of the most pressing challenges in global health. We present a few-shot learning approach to identify candidate molecules with antibiotic properties from limited labeled data...",
+        "venue_name":  "Journal of Chemical Information and Modeling",
+        "venue_type":  "journal",
+        "topics":      ["Drug Discovery", "Few-Shot Learning", "Antibiotic Resistance"]
+      },
+      {
+        "openalex_id": "https://openalex.org/W4372345678",
+        "title":       "Clinical Text Mining for Adverse Drug Reactions in Electronic Health Records",
+        "year":        2023,
+        "abstract":    "We develop an NLP pipeline to identify adverse drug reactions from free-text clinical notes at scale...",
+        "venue_name":  "Nature Medicine",
+        "venue_type":  "journal",
+        "topics":      ["Clinical NLP", "EHR", "Pharmacovigilance"]
+      }
+    ],
+
+    "s2_papers": [
+      {
+        "s2_paper_id":     "abc123def456",
+        "title":           "CAMP: Towards Certified Robustness for Language Models via Randomized Smoothing",
+        "year":            2024,
+        "abstract":        "Large language models are increasingly deployed in safety-critical applications. We propose CAMP, a framework for certifying the robustness of text classifiers under word substitution attacks using randomized smoothing. Unlike prior work that focuses on image models, CAMP extends certification guarantees to discrete text inputs by modeling word substitution as a probabilistic noise process. Experiments on GLUE benchmarks demonstrate certified accuracy of 72% under attack radius r=1, outperforming all existing baselines. Future work includes extending these guarantees to generative models and open-ended generation tasks.",
+        "tldr":            "CAMP certifies NLP model robustness under word-substitution attacks using randomized smoothing, achieving state-of-the-art certified accuracy on GLUE benchmarks.",
+        "venue":           "NeurIPS 2024",
+        "fields_of_study": ["Computer Science"]
+      },
+      {
+        "s2_paper_id":     "def456ghi789",
+        "title":           "Empowering Molecule Discovery for Antibiotic Development with a Few-Shot Learning Based Approach",
+        "year":            2023,
+        "abstract":        "Antibiotic resistance is one of the most pressing challenges in global health. We present a few-shot learning approach to identify candidate molecules with antibiotic properties. Our model leverages contrastive pretraining on molecular graphs and achieves strong generalization from as few as 10 labeled examples. We validate on three datasets including a newly curated Gram-negative bacteria benchmark. Future work: extending to multi-target resistance prediction and integrating structural protein data for binding affinity estimation.",
+        "tldr":            "A few-shot learning framework for antibiotic drug discovery that generalizes from very limited labeled molecular data.",
+        "venue":           "J. Chem. Inf. Model. 2023",
+        "fields_of_study": ["Chemistry", "Computer Science"]
+      }
+    ],
+
+    "research_vision": null,
+    "method_type":     null,
+    "future_work":     null,
+    "embedding":       null
+  }
+]
